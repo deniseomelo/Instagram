@@ -17,7 +17,32 @@ body {
     padding: 0;
     display: flex;
     justify-content: center;
+   
 
 
 }
+
+.instagram-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+
+.instagram-phone img {
+    height: 50rem;
+
+}
+
+.instagram-continue {
+    display: flex;
+    align-items:center; /*horizontal*/
+    justify-content: space-around; /*vertical*/
+    flex-direction: column;
+
+
+}
+
+
 
